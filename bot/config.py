@@ -1,11 +1,11 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/yt_DarkHackerX_chat"
-    DOWNLOAD_DIRECTORY = "./downloads/"
+    BOT_TOKEN = "1750097833:AAF5DEPEDcZ-niuTU64kQwARWQSe2sfyjA0"
+    APP_ID = "2047094"
+    API_HASH = "03ec9ec0d503e56ee4ee6ea1c9f32e10"
+    DATABASE_URL = "postgres://dxlrumvsayllvy:39ca042742e54491cef71f15c5940a47f94ed2b579b5586a5abcb80d655ec2a9@ec2-3-91-127-228.compute-1.amazonaws.com:5432/d8u41br2koq8b9"
+    SUDO_USERS = "1475801356 1284668083" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/GOHMcKfpGDGgqaqW"chat
+    DOWNLOAD_DIRECTORY = "./downloads/"kerX_c
 
 
 class BotCommands:
